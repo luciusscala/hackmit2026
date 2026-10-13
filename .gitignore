@@ -1,0 +1,27 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# map-pipeline scrape output (regenerable; snapshots live in web/public/)
+map-pipeline/data/
+
+# node / next
+node_modules/
+.next/
+out/
+build/
+coverage/
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+
+# os
+.DS_Store
+*.pem
