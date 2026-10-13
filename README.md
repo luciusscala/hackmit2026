@@ -231,6 +231,10 @@ The map, forecast and match pages work out of the box using the snapshots in
 `web/public/`. The stats page needs a Supabase project filled by `stats-sync`.
 Each folder's README has more detail.
 
-## Author
+## Use of AI
 
-Lucius Scala · [GitHub](https://github.com/luciusscala)
+This project was built with the help of AI coding assistants, including Claude.
+AI was used to write and refactor code, clean up the repository, and draft this
+writeup and the docs in [`docs/`](./docs). The project idea, design choices and
+data analysis were directed by a person, and the numbers in this writeup come
+directly from the project's own data.
