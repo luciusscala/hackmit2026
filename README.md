@@ -1,4 +1,4 @@
-<h1 align="center">HackMIT 2026 Project Explorer</h1>
+<h1 align="center">HackMIT 2026</h1>
 
 <p align="center">
   Live stats, a 3D map of project ideas, and a ranking forecast for HackMIT 2026,
